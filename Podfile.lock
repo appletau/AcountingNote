@@ -1,0 +1,40 @@
+PODS:
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - DatePickerDialog (3.0)
+  - Realm (4.3.0):
+    - Realm/Headers (= 4.3.0)
+  - Realm/Headers (4.3.0)
+  - RealmSwift (4.3.0):
+    - Realm (= 4.3.0)
+  - SwiftyButton (0.8.2)
+  - SwipeCellKit (2.7.1)
+
+DEPENDENCIES:
+  - ChameleonFramework
+  - DatePickerDialog
+  - RealmSwift
+  - SwiftyButton
+  - SwipeCellKit
+
+SPEC REPOS:
+  trunk:
+    - ChameleonFramework
+    - DatePickerDialog
+    - Realm
+    - RealmSwift
+    - SwiftyButton
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  DatePickerDialog: 03dbb8350bfa80302ab2a8c83cee1fec70184444
+  Realm: 9357c3589555793e1860a7104a7412bca4a48d99
+  RealmSwift: 402f1e379a8ef82c635313037b043f0f06de880c
+  SwiftyButton: 5b0ef314e9cf61cf8a83e456ddd1ea1f53f30598
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+
+PODFILE CHECKSUM: b83e2324b795b38e217bc2877ccf5c8b22d8cc50
+
+COCOAPODS: 1.9.0.beta.2

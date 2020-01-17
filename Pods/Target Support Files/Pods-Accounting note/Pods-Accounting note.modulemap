@@ -1,0 +1,6 @@
+framework module Pods_Accounting_note {
+  umbrella header "Pods-Accounting note-umbrella.h"
+
+  export *
+  module * { export * }
+}
